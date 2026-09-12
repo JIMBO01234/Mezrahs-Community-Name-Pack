@@ -5,4 +5,5 @@ Killfeedimprovements: get this only if you want the funny names like Darrel the 
 
 Spawnfeed and RecolorBossHealthbars: 
 Funny names but you can toggle them off.  
-You can let spawnfeed and recolourbosshealthbars show you if its a sword or club captain, recolour the names and healthbars as if they were separate entities
+You can let spawnfeed and recolourbosshealthbars show you if its a sword or club captain, recolour the names and healthbars as if they were separate entities.
+You can change the Opacity and Colour of the notifications on Spawnfeed if you want.
