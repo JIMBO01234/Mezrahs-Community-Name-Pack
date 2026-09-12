@@ -1,0 +1,1 @@
+For Fun namepacks with additional functionalities even if you don't want the names, you can let spawnfeed and recolourbosshealthbars show you if its a sword or club captain, recolour the names and healthbars as if they were separate entities
