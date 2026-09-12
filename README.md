@@ -1,3 +1,4 @@
+The Mods are made with Alfs DMF extension in min (for settings).
 For Fun namepacks with additional functionalities even if you don't want the names.
 
 Killfeedimprovements: get this only if you want the funny names like Darrel the Dog etc, no real actual benefit from running this over the default mod.
